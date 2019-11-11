@@ -1,1 +1,2 @@
-# GAN-
+# DCGAN in PYTORCH
+# Results
