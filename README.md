@@ -1,2 +1,1 @@
 # DCGAN in PYTORCH
-# Results
