@@ -1,2 +1,5 @@
-# DCGAN in PYTORCH
-![gan1](https://user-images.githubusercontent.com/48057022/68597442-f6dbfc00-04c2-11ea-9ef0-e4d65db78ff4.gif)
+# MNIST-GAN in PYTORCH
+
+100 EPOCHS
+![final](https://user-images.githubusercontent.com/48057022/68598461-dca31d80-04c4-11ea-85ee-74892314c93c.gif)
+
