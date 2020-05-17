@@ -6,7 +6,7 @@
 100 EPOCHS
 
 # MNIST-DCGAN in PYTORCH
-## RESULTS
+## RESULT
 
 ![project](https://user-images.githubusercontent.com/48057022/68599041-dd887f00-04c5-11ea-925b-d00ff5785ce2.gif)
 
