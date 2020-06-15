@@ -18,21 +18,16 @@ It is an extension of GANs . It mainly composes of convolution layers without ma
 All results are generated from the fixed noise vector.
 
 ## RESULTS
-*Name* | *Epoch 1* | *Epoch 25* | *Epoch 50* | *GIF*
+*Name* | *Time Taken* | *Epoch 1* | *Mid Epoch* | *Max Epoch(dcgan=30,gan=100)* | *GIF*
 :---: | :---: | :---: | :---: | :---: |
-GAN | <img src = 'images/DCGAN.png' height = '200px'> | <img src = 'assets/fashion_mnist_results/GAN_epoch025.png' height = '200px'> | <img src = 'images/DCGAN.png' height = '200px'> | <img src = 'https://user-images.githubusercontent.com/48057022/68598461-dca31d80-04c4-11ea-85ee-74892314c93c.gif' height = '200px'>
+GAN | 12.35 mins | <img src = 'images/1(gan-digit).png' width ='250' height = '125px'> | <img src = 'images/50(mid).png' width ='250' height = '125px'> | <img src = 'images/100.png' width ='250' height = '125px'> | <img src = 'https://user-images.githubusercontent.com/48057022/68598461-dca31d80-04c4-11ea-85ee-74892314c93c.gif' width="225px" height = '125px'>
+DCGAN | 34.6 mins  | <img src = 'images/1(dcgan-digit).png' height = '200px'> | <img src = 'images/15.png'  width="225px" height= '125px'> | <img src = 'images/30.png' height = '200px'> | <img src = 'https://user-images.githubusercontent.com/48057022/68599041-dd887f00-04c5-11ea-925b-d00ff5785ce2.gif' width="225px" height = '125px'>
 
-## MNIST-GANs in PYTORCH
+*Name* | *Time Taken* | *Epoch 1* | *Mid Epoch* | *Max Epoch(dcgan=50,gan=500)* | *GIF*
+:---: | :---: | :---: | :---: | :---: |
+GAN | 62.7 mins | <img src = 'images/1.png' width ='250' height = '125px'> | <img src = 'images/250.png' width ='250' height = '125px'> | <img src = 'images/500.png' width ='250' height = '125px'>| <img src = 'https://user-images.githubusercontent.com/48057022/68598461-dca31d80-04c4-11ea-85ee-74892314c93c.gif' width="250px" height = '125px'>
+DCGAN | 64.9 mins | <img src = 'images/1(dcgan).png' width ='250' height = '125px'> | <img src = 'images/25.png' width ='250' height = '125px'> | <img src = 'images/50.png' width ='250' height = '125px'> | <img src = 'https://user-images.githubusercontent.com/48057022/68599041-dd887f00-04c5-11ea-925b-d00ff5785ce2.gif' width="250px" height = '125px'>
 
 
-![final](https://user-images.githubusercontent.com/48057022/68598461-dca31d80-04c4-11ea-85ee-74892314c93c.gif)
 
-100 EPOCHS
-
-# MNIST-DCGAN in PYTORCH
-## RESULT
-
-![project](https://user-images.githubusercontent.com/48057022/68599041-dd887f00-04c5-11ea-925b-d00ff5785ce2.gif)
-
-30 EPOCHS
 
