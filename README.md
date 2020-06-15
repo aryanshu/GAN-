@@ -18,15 +18,15 @@ It is an extension of GANs . It mainly composes of convolution layers without ma
 All results are generated from the fixed noise vector.
 
 ## RESULTS
-*Name* | *Time Taken* | *Epoch 1* | *Mid Epoch* | *Max Epoch(dcgan=30,gan=100)* | *GIF*
-:---: | :---: | :---: | :---: | :---: |
-GAN | 12.35 mins | <img src = 'images/1(gan-digit).png' width ='150' height = '125px'> | <img src = 'images/50(mid).png' width ='150' height = '125px'> | <img src = 'images/100.png' width ='150' height = '125px'> | <img src = 'https://user-images.githubusercontent.com/48057022/68598461-dca31d80-04c4-11ea-85ee-74892314c93c.gif' width="150px" height = '125px'>
-DCGAN | 34.6 mins  | <img src = 'images/1(dcgan-digit).png'  width ='150' height = '125px'> | <img src = 'images/15.png'  width="150px" height= '125px'> | <img src = 'images/30.png' width ='150' height = '125px'> | <img src = 'https://user-images.githubusercontent.com/48057022/68599041-dd887f00-04c5-11ea-925b-d00ff5785ce2.gif' width="150px" height = '125px'>
+*Name* | *Time Taken* | *Epoch 1* | *Mid Epoch* | *Max Epoch* | *GIF*
+:---: | :---: | :---: | :---: | :---: | :---: |
+GAN | 12.35 mins | <img src = 'images/1(gan-digit).png' width ='230' height = '125px'> | <img src = 'images/50(mid).png' width ='230' height = '125px'> | <img src = 'images/100.png' width ='230' height = '125px'> | <img src = 'https://user-images.githubusercontent.com/48057022/68598461-dca31d80-04c4-11ea-85ee-74892314c93c.gif' width="230px" height = '125px'>
+DCGAN | 34.6 mins  | <img src = 'images/1(digit-dcgan).png'  width ='230px' height = '125px'> | <img src = 'images/15.png'  width="230px" height= '125px'> | <img src = 'images/30.png' width ='230px' height = '125px'> | <img src = 'https://user-images.githubusercontent.com/48057022/68599041-dd887f00-04c5-11ea-925b-d00ff5785ce2.gif' width="230px" height = '125px'>
 
-*Name* | *Time Taken* | *Epoch 1* | *Mid Epoch* | *Max Epoch(dcgan=50,gan=500)* | *GIF*
-:---: | :---: | :---: | :---: | :---: |
-GAN | 62.7 mins | <img src = 'images/1.png' width ='250' height = '125px'> | <img src = 'images/250.png' width ='250' height = '125px'> | <img src = 'images/500.png' width ='250' height = '125px'>| <img src = 'https://user-images.githubusercontent.com/48057022/68598461-dca31d80-04c4-11ea-85ee-74892314c93c.gif' width="250px" height = '125px'>
-DCGAN | 64.9 mins | <img src = 'images/1(dcgan).png' width ='250' height = '125px'> | <img src = 'images/25.png' width ='250' height = '125px'> | <img src = 'images/50.png' width ='250' height = '125px'> | <img src = 'https://user-images.githubusercontent.com/48057022/68599041-dd887f00-04c5-11ea-925b-d00ff5785ce2.gif' width="250px" height = '125px'>
+*Name* | *Time Taken* | *Epoch 1* | *Mid Epoch* | *Max Epoch* | *GIF*
+:---: | :---: | :---: | :---: | :---: | :---: |
+GAN | 62.7 mins | <img src = 'images/1.png' width ='230' height = '125px'> | <img src = 'images/250.png' width ='230' height = '125px'> | <img src = 'images/500.png' width ='230' height = '125px'>| <img src = 'images/fashion_gan.gif' width="230px" height = '125px'>
+DCGAN | 64.9 mins | <img src = 'images/1(dcgan).png' width ='230px' height = '125px'> | <img src = 'images/25.png' width ='230' height = '125px'> | <img src = 'images/50.png' width ='230px' height = '125px'> | <img src = 'images/Fashion_dcgan.gif' width="230px" height = '125px'>
 
 
 
