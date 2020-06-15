@@ -20,8 +20,8 @@ All results are generated from the fixed noise vector.
 ## RESULTS
 *Name* | *Time Taken* | *Epoch 1* | *Mid Epoch* | *Max Epoch(dcgan=30,gan=100)* | *GIF*
 :---: | :---: | :---: | :---: | :---: |
-GAN | 12.35 mins | <img src = 'images/1(gan-digit).png' width ='250' height = '125px'> | <img src = 'images/50(mid).png' width ='250' height = '125px'> | <img src = 'images/100.png' width ='250' height = '125px'> | <img src = 'https://user-images.githubusercontent.com/48057022/68598461-dca31d80-04c4-11ea-85ee-74892314c93c.gif' width="225px" height = '125px'>
-DCGAN | 34.6 mins  | <img src = 'images/1(dcgan-digit).png' height = '200px'> | <img src = 'images/15.png'  width="225px" height= '125px'> | <img src = 'images/30.png' height = '200px'> | <img src = 'https://user-images.githubusercontent.com/48057022/68599041-dd887f00-04c5-11ea-925b-d00ff5785ce2.gif' width="225px" height = '125px'>
+GAN | 12.35 mins | <img src = 'images/1(gan-digit).png' width ='150' height = '125px'> | <img src = 'images/50(mid).png' width ='150' height = '125px'> | <img src = 'images/100.png' width ='150' height = '125px'> | <img src = 'https://user-images.githubusercontent.com/48057022/68598461-dca31d80-04c4-11ea-85ee-74892314c93c.gif' width="150px" height = '125px'>
+DCGAN | 34.6 mins  | <img src = 'images/1(dcgan-digit).png'  width ='150' height = '125px'> | <img src = 'images/15.png'  width="150px" height= '125px'> | <img src = 'images/30.png' width ='150' height = '125px'> | <img src = 'https://user-images.githubusercontent.com/48057022/68599041-dd887f00-04c5-11ea-925b-d00ff5785ce2.gif' width="150px" height = '125px'>
 
 *Name* | *Time Taken* | *Epoch 1* | *Mid Epoch* | *Max Epoch(dcgan=50,gan=500)* | *GIF*
 :---: | :---: | :---: | :---: | :---: |
