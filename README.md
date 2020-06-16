@@ -1,3 +1,7 @@
+# NOTE: IF YOU HAVING TROUBLE OPENING JUPYTER NOTEBOOKS PLEASE OPEN THE FOLLOWING LINKS
+<b>DCGAN</b> : https://nbviewer.jupyter.org/github/aryanshu/GAN-/blob/master/DCGAN.ipynb
+<br><b>GAN</b>   : https://nbviewer.jupyter.org/github/aryanshu/GAN-/blob/master/GAN.ipynb 
+
 # Implementation of GANs and DCGANs using PyTorch
 The Generative Adversarial Network and Deep Convolutional Generative Adversarial Networks implemented in this project was based on the paper "<a href="https://arxiv.org/abs/1406.2661">Generative Adversarial Networks<a>" by Goodfellow et al. and  "<a href="https://arxiv.org/abs/1511.06434">Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks<a>" by Soumith Chintala Respectively.
 
